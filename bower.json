@@ -1,0 +1,15 @@
+{
+    "name": "string.startsWith",
+    "homepage": "https://github.com/DasRed/js-string.startsWith-polyfill",
+    "main": "Polyfill for String.startsWith if needed.",
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+    }
+}
