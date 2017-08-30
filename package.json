@@ -1,0 +1,16 @@
+{
+  "name": "string.startswith-polyfill",
+  "version": "1.0.1",
+  "description": "Polyfill for String.startsWith if needed.",
+  "main": "string.startsWith.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DasRed/js-string.startsWith.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DasRed/js-string.startsWith/issues"
+  },
+  "homepage": "https://github.com/DasRed/js-string.startsWith#readme"
+}
